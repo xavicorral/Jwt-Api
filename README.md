@@ -12,7 +12,7 @@ Instructions
 ============================
 - Clone the repo
 ```sh
-git clone git@github.com:xavicorral/PuntMultimediaApp.git
+git clone https://github.com/xavicorral/Jwt-Api
 ```
 - Install node dependencies
  ```sh
