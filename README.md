@@ -12,7 +12,7 @@ Instructions
 ============================
 - Clone the repo
 ```sh
-git clone https://github.com/xavicorral/Jwt-Api
+git clone git@github.com:xavicorral/Jwt-Api.git
 ```
 - Install node dependencies
  ```sh
