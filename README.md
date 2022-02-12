@@ -28,7 +28,7 @@ docker-compose up
 node src/server.js
  ```
 
- That's it! To check if the server is up and running, try accessing http://localhost.5000/api
+ That's it! To check if the server is up and running, try accessing http://localhost:5000/api
  
  If you want to test it through command line:
  
